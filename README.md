@@ -15,4 +15,4 @@ A modern calculator built using **Java Swing** and **AWT** — designed for simp
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Calculator.git
+   git clone https://github.com/BezaleelPaul/Calculator.git
